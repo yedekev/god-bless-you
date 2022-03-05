@@ -1,0 +1,10 @@
+{
+    "treads": 3,
+    "targets": [
+        "https://government.ru/",
+        "https://mvd.ru/",
+        "https://www.mchs.gov.ru/",
+        "https://www.mid.ru/ru/home",
+        "https://mil.ru/"
+    ]
+}

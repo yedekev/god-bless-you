@@ -1,0 +1,10 @@
+{
+    "treads": 3,
+    "targets": [
+        "https://duma.gov.ru/",
+        "https://scrf.gov.ru/",
+        "https://council.gov.ru/",
+        "https://legislation.council.gov.ru/",
+        "https://region.council.gov.ru/"
+    ]
+}

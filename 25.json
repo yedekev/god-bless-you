@@ -1,0 +1,10 @@
+{
+    "treads": 3,
+    "targets": [
+        "https://archives.gov.ru/",
+        "https://gisp.gov.ru/",
+        "https://gossluzhba.gov.ru/",
+        "https://roskachestvo.gov.ru/",
+        "https://minzdrav.gov.ru/"
+    ]
+}

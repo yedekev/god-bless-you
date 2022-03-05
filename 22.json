@@ -1,0 +1,10 @@
+{
+    "treads": 3,
+    "targets": [
+        "https://social.council.gov.ru/",
+        "https://science.council.gov.ru/",
+        "https://reglament.council.gov.ru/",
+        "https://pravo.gov.ru/",
+        "https://data.gov.ru/"
+    ]
+}

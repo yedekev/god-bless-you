@@ -1,0 +1,10 @@
+{
+    "treads": 3,
+    "targets": [
+        "https://fas.gov.ru/",
+        "https://www.rosreestr.ru/",
+        "https://rospotrebnadzor.ru/",
+        "https://www.roszdravnadzor.ru",
+        "https://obrnadzor.gov.ru/"
+    ]
+}

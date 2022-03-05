@@ -1,0 +1,10 @@
+{
+    "treads": 3,
+    "targets": [
+        "https://megafon.ru",
+        "https://pgk.ru",
+        "https://sibur.ru",
+        "https://www.scrf.gov.ru/",
+        "https://sovetnational.ru/"
+    ]
+}

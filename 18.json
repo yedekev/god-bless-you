@@ -1,0 +1,10 @@
+{
+    "treads": 3,
+    "targets": [
+        "https://www.gosnadzor.ru/",
+        "https://www.rosatom.ru/",
+        "https://www.roscosmos.ru/",
+        "https://www.asv.org.ru/",
+        "https://veb.ru/"
+    ]
+}

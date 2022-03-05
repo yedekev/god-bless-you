@@ -1,0 +1,10 @@
+{
+    "treads": 3,
+    "targets": [
+        "https://rosreestr.gov.ru/",
+        "https://ac.gov.ru/",
+        "https://svr.gov.ru/",
+        "https://zakupki.gov.ru/",
+        "https://gosuslugi.ru/"
+    ]
+}

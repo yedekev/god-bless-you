@@ -1,0 +1,10 @@
+{
+    "treads": 3,
+    "targets": [
+        "https://www.fedsfm.ru/",
+        "https://www.meteorf.ru/",
+        "https://rpn.gov.ru/",
+        "https://www.fsvps.ru/",
+        "https://www.rostransnadzor.ru/"
+    ]
+}

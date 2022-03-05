@@ -1,0 +1,12 @@
+{
+    "treads": 3,
+    "targets": [
+        "https://budget.gov.ru/lk",
+        "https://pfr.gov.ru/",
+        "https://fssp.gov.ru/",
+        "https://rosguard.gov.ru/",
+        "https://mintrans.gov.ru/",
+        "https://www.fso.gov.ru/",
+        "https://chechnya.gov.ru/"
+    ]
+}

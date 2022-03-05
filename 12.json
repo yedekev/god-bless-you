@@ -1,0 +1,10 @@
+{
+    "treads": 3,
+    "targets": [
+        "https://minenergo.gov.ru/",
+        "https://www.fsvts.gov.ru/",
+        "https://www.fstec.ru/",
+        "https://www.fsin.su",
+        "https://www.fssprus.ru/"
+    ]
+}

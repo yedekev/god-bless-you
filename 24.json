@@ -1,0 +1,10 @@
+{
+    "treads": 3,
+    "targets": [
+        "https://premier.gov.ru/",
+        "https://fpi.gov.ru/",
+        "https://minfin.gov.ru/",
+        "https://eais.rkn.gov.ru/",
+        "https://favt.gov.ru/"
+    ]
+}

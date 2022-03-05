@@ -1,0 +1,10 @@
+{
+    "treads": 3,
+    "targets": [
+        "https://defence.council.gov.ru/",
+        "https://international.council.gov.ru/",
+        "https://budget.council.gov.ru/",
+        "https://economy.council.gov.ru/",
+        "https://agrarian.council.gov.ru/"
+    ]
+}

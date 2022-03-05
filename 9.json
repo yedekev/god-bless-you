@@ -1,0 +1,10 @@
+{
+    "treads": 3,
+    "targets": [
+        "https://minjust.gov.ru/",
+        "https://minzdrav.gov.ru/",
+        "https://mkrf.ru/",
+        "https://edu.gov.ru/",
+        "https://minobrnauki.gov.ru/"
+    ]
+}

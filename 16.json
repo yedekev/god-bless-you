@@ -1,0 +1,10 @@
+{
+    "treads": 3,
+    "targets": [
+        "https://www.roskazna.ru/",
+        "https://rkn.gov.ru/",
+        "https://www.fsa.gov.ru/",
+        "https://rosstat.gov.ru/",
+        "https://www.rupto.ru/"
+    ]
+}

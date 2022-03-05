@@ -1,0 +1,10 @@
+{
+    "treads": 3,
+    "targets": [
+        "https://www.rostrud.ru/",
+        "https://www.nalog.ru/",
+        "https://www.probpalata.ru",
+        "https://fsrar.ru/",
+        "https://www.customs.gov.ru/"
+    ]
+}
