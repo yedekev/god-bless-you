@@ -1,0 +1,12 @@
+{
+  "threads": 3,
+  "targets": [
+    "https://www.kremlin.ru/",
+    "https://www.gazprom.ru/",
+    "https://www.sberbank.ru/",
+    "https://www.vtb.ru/",
+    "https://www.surgutneftegas.ru/",
+    "https://www.nornickel.ru/",
+    "https://rosneft.ru"
+  ]
+}
