@@ -1,5 +1,5 @@
 {
-    "treads": 3,
+    "threads": 3,
     "targets": [
         "https://www.minstroyrf.ru/",
         "https://www.mintrans.ru/",
