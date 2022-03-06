@@ -1,5 +1,5 @@
 {
-    "treads": 3,
+    "threads": 3,
     "targets": [
         "https://president-sovet.ru/",
         "https://www.council.gov.ru/",

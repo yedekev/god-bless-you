@@ -1,5 +1,5 @@
 {
-    "treads": 3,
+    "threads": 3,
     "targets": [
         "https://www.gazprom-neft.ru/",
         "https://www.tatneft.ru/",

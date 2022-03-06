@@ -1,5 +1,5 @@
 {
-    "treads": 3,
+    "threads": 3,
     "targets": [
         "https://gfs.gov.ru/",
         "https://svr.gov.ru/",

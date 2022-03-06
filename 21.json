@@ -1,5 +1,5 @@
 {
-    "treads": 3,
+    "threads": 3,
     "targets": [
         "https://defence.council.gov.ru/",
         "https://international.council.gov.ru/",
